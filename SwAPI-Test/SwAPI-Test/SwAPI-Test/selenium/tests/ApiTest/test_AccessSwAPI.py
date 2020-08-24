@@ -74,8 +74,8 @@ class AccessSwAPI(unittest.TestCase):
             raise exception
 
     #Traz a url e os nomes dos filmes que o planeta Alderaan aparece
-    def test_get_count_planeta_filmes(self):
-        print('test_get_count_planeta_filmes')
+    def test_get_count_planeta_alderaan_filmes(self):
+        print('test_get_count_planeta_alderaan_filmes')
         try:
             feedback = requests.get(self.endpoint + "planets/", timeout=self.timeout_post, headers=self.headers)
             feedback2 = requests.get(self.endpoint + "films/", timeout=self.timeout_post, headers=self.headers)
@@ -104,7 +104,7 @@ class AccessSwAPI(unittest.TestCase):
                 print("URL Filmes: %s" % (output_film))
                 print("Nome Filmes: %s" % (output_filmname))
 
-                print("\t[test_get_count_planeta_filmes] SUCESSO\n")
+                print("\t[test_get_count_planeta_alderaan_filmes] SUCESSO\n")
             else:
                 raise Exception
         except Exception as exception:
