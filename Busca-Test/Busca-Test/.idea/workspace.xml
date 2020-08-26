@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe75d74-64e5-4f92-9b6e-aa65886b1855" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Automatic-Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automatic-Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/tests/imagens/selfie_motorista.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/tests/imagens/selfie_motorista.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CompanyFeature</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>VehicleFeature</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gZJa3CKSMJHnAWLZ7bZ8kYXHgx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_login.LoginTest.test_1_unsuccess_login_wrong_password">
+    <configuration name="test_AccessFreteFacilApi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Automatic-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/selenium/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium/tests/ApiTest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium/tests/ApiTest/test_AccessFreteFacilApi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_company_feature.CompanyFeature.test_creating_new_company" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Automatic-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_company_feature.CompanyFeature.test_creating_new_company&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_login.LoginTest.test_1_unsuccess_login_wrong_password" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Automatic-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium/tests/Login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.LoginTest.test_1_unsuccess_login_wrong_password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_company_feature.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Automatic-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess/test_company_feature.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_AccessFreteFacilApi" />
+      <item itemvalue="Python tests.Unittests for test_company_feature.CompanyFeature.test_creating_new_company" />
+      <item itemvalue="Python tests.Unittests in test_company_feature.py" />
+      <item itemvalue="Python tests.Unittests for test_login.LoginTest.test_1_unsuccess_login_wrong_password" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_login.LoginTest.test_1_unsuccess_login_wrong_password" />
+        <item itemvalue="Python.test_AccessFreteFacilApi" />
+        <item itemvalue="Python tests.Unittests in test_company_feature.py" />
+        <item itemvalue="Python tests.Unittests for test_company_feature.CompanyFeature.test_creating_new_company" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe75d74-64e5-4f92-9b6e-aa65886b1855" name="Default" comment="" />
+      <created>1519839375460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519839375460</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_company_feature_CompanyFeature_test_creating_new_company - 2018.02.28 at 14h 39m 01s.xml">
+      <configuration name="Unittests for test_company_feature.CompanyFeature.test_creating_new_company" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_company_feature_py - 2018.02.28 at 15h 42m 35s.xml">
+      <configuration name="Unittests in test_company_feature.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_company_feature_py - 2018.02.28 at 15h 43m 34s.xml">
+      <configuration name="Unittests in test_company_feature.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_company_feature_py - 2018.02.28 at 15h 44m 58s.xml">
+      <configuration name="Unittests in test_company_feature.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_company_feature_py - 2018.02.28 at 15h 55m 34s.xml">
+      <configuration name="Unittests in test_company_feature.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_LoginTest_test_1_unsuccess_login_wrong_password - 2019.05.23 at 10h 08m 15s.xml">
+      <configuration name="Unittests for test_login.LoginTest.test_1_unsuccess_login_wrong_password" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess/test_company_feature.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess/test_company_feature.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess/test_company_feature.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess/test_company_feature.py</url>
+          <line>177</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium/tests/MenuFunctionalitiesAccess/test_company_feature.py</url>
+          <line>232</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium/tests/Login/test_login.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium/tests/Login/test_login.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium/tests/Login/test_login.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
